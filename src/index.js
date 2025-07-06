@@ -77,6 +77,7 @@ const crawl = async ({ url }) => {
 };
 
 
+//url:pass you url to crawl
 
 // crawl({ url: "https://ayuzhk.vercel.app" });
 // crawl({ url: "https://milind537.vercel.app/gallery" });
